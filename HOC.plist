@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.timeface.app.ios</string>
+				<string>com.tecpie.pmss</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>TimeFace</string>
+				<string>Tecpie</string>
 			</dict>
 		</dict>
 	</array>
